@@ -1,6 +1,6 @@
-module github.com/pkoukk/tiktoken-go
+module github.com/aavaz-ai/tiktoken-go
 
-go 1.19
+go 1.17
 
 require (
 	github.com/dlclark/regexp2 v1.8.1
